@@ -1,0 +1,3 @@
+[submodule "public_html/applications/movuca"]
+	path = public_html/applications/movuca
+	url = git://github.com/rochacbruno/Movuca.git
